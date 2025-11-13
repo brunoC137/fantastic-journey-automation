@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "env": {
+    "API_URL": "http://localhost:5000/api",
+    "TEST_USER_EMAIL": "test@example.com",
+    "TEST_USER_PASSWORD": "password123"
+  }
+}

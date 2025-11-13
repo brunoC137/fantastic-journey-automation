@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://your-vercel-production-url.vercel.app",
+  "env": {
+    "API_URL": "https://your-render-api-url.onrender.com/api",
+    "TEST_USER_EMAIL": "your-prod-user@email",
+    "TEST_USER_PASSWORD": "your-prod-password"
+  }
+}
